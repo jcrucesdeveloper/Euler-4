@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Euler IV</string>
+    <string name="quote_questions">"Mathematics is the most beautiful and most powerful creation of the human spirit"</string>
+    <string name="quote_author">- Stefan Banach</string>
+    <color name="background">#33691e</color>
+    <color name="questionColor">#003d00</color>
+    <string name="buttonNextEuler">Try Euler 5</string>
+    <string name="currentEulerLink">market://details?id=com.jorgecruces.euler4</string>
+    <string name="nextEulerLink">market://details?id=com.jorgecruces.euler5</string>
+</resources>
+
